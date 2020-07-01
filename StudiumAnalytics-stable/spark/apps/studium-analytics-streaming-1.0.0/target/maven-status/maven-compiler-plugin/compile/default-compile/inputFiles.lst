@@ -1,0 +1,14 @@
+/opt/StudiumAnalytics/spark-3.0.0-preview2-bin-hadoop2.7/OurProject/studium-analytics-streaming-1.0.0/src/main/java/studium/analytics/streaming/Models/TeachingSection.java
+/opt/StudiumAnalytics/spark-3.0.0-preview2-bin-hadoop2.7/OurProject/studium-analytics-streaming-1.0.0/src/main/java/studium/analytics/streaming/ML/MLPipeline.java
+/opt/StudiumAnalytics/spark-3.0.0-preview2-bin-hadoop2.7/OurProject/studium-analytics-streaming-1.0.0/src/main/java/studium/analytics/streaming/Models/DocumentItem.java
+/opt/StudiumAnalytics/spark-3.0.0-preview2-bin-hadoop2.7/OurProject/studium-analytics-streaming-1.0.0/src/main/java/studium/analytics/streaming/ESAdapter/ESAdapter.java
+/opt/StudiumAnalytics/spark-3.0.0-preview2-bin-hadoop2.7/OurProject/studium-analytics-streaming-1.0.0/src/main/java/studium/analytics/streaming/Models/InteractionRow.java
+/opt/StudiumAnalytics/spark-3.0.0-preview2-bin-hadoop2.7/OurProject/studium-analytics-streaming-1.0.0/src/main/java/studium/analytics/streaming/Utils/SAUtils.java
+/opt/StudiumAnalytics/spark-3.0.0-preview2-bin-hadoop2.7/OurProject/studium-analytics-streaming-1.0.0/src/main/java/studium/analytics/streaming/Analytics/Processor.java
+/opt/StudiumAnalytics/spark-3.0.0-preview2-bin-hadoop2.7/OurProject/studium-analytics-streaming-1.0.0/src/main/java/studium/analytics/streaming/Models/Item.java
+/opt/StudiumAnalytics/spark-3.0.0-preview2-bin-hadoop2.7/OurProject/studium-analytics-streaming-1.0.0/src/main/java/studium/analytics/streaming/Models/TeachingState.java
+/opt/StudiumAnalytics/spark-3.0.0-preview2-bin-hadoop2.7/OurProject/studium-analytics-streaming-1.0.0/src/main/java/studium/analytics/streaming/Models/ModelsFactory.java
+/opt/StudiumAnalytics/spark-3.0.0-preview2-bin-hadoop2.7/OurProject/studium-analytics-streaming-1.0.0/src/main/java/studium/analytics/streaming/Models/TeachingScore.java
+/opt/StudiumAnalytics/spark-3.0.0-preview2-bin-hadoop2.7/OurProject/studium-analytics-streaming-1.0.0/src/main/java/studium/analytics/streaming/Models/NotificationItem.java
+/opt/StudiumAnalytics/spark-3.0.0-preview2-bin-hadoop2.7/OurProject/studium-analytics-streaming-1.0.0/src/main/java/studium/analytics/streaming/App.java
+/opt/StudiumAnalytics/spark-3.0.0-preview2-bin-hadoop2.7/OurProject/studium-analytics-streaming-1.0.0/src/main/java/studium/analytics/streaming/Models/Teaching.java

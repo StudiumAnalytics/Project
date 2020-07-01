@@ -1,0 +1,2 @@
+docker run --rm --volumes-from elasticsearch -v $(pwd):/backup tap:elasticsearch bash -c "cd ./ && tar xvf /backup/elasticsearchBK.tar --strip 1"
+docker run --rm --volumes-from kibana -v $(pwd):/backup tap:kibana bash -c "cd ./ && tar xvf /backup/kibanaBK.tar --strip 1"
