@@ -21,7 +21,7 @@ namespace StudiumAnalyticsBackend
                 .ConfigureWebHostDefaults(webBuilder =>
                 {
                     webBuilder.UseKestrel();
-                    webBuilder.UseUrls("http://192.168.1.197:5001","http://localhost:5001");
+                    webBuilder.UseUrls("http://localhost:5001");
                     webBuilder.UseIISIntegration();
                     webBuilder.UseStartup<Startup>();
                 });
