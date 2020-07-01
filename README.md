@@ -2,7 +2,7 @@
 Progetto TAP
 * Simone Scionti
 * Sergio Maccarrone
-Anno accademico 2019/2020
+* Anno accademico 2019/2020
 
 # Guida all'uso
 - Scaricare o clonare l'intera repository
